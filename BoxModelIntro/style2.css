@@ -1,1 +1,38 @@
-
+#width1{
+    width: 75%;
+}
+#width2{
+  width: 100px;
+}
+#container1{
+  width: 50%;
+}
+#inside1{
+  width: 50%;
+}
+#container2{
+  width: 300px;
+}
+#inside2{
+  width: 75%;
+}
+#container3{
+  width: 200px;
+}
+#inside3{
+  width: 300px;
+}
+#border1{
+  border: 1px solid black;
+}
+#border2{
+  border: 2px solid red;
+}
+#border3{
+  border: 3px dashed grey;
+}
+#border4{
+  border: 1px solid black;
+  width: 50%;
+  background-color: maroon;
+}
