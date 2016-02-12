@@ -73,3 +73,6 @@
   background-color: maroon;
   padding: 0px 15%;
 }
+#floatyImag {
+  float: left;
+}
