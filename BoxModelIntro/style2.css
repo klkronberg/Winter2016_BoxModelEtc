@@ -36,3 +36,40 @@
   width: 50%;
   background-color: maroon;
 }
+#margin1 {
+  border: 1px solid black;
+  margin: 10%;
+}
+#margin2 {
+  border: 1px solid black;
+  margin: 5px 10%;
+}
+#margin3 {
+  margin: 25% 2px;
+}
+#margin4 {
+  background-color: maroon;
+  margin: 15% 0px;
+}
+#margin5 {
+  background-color: maroon;
+  width: 75%;
+  margin: 0px auto;
+}
+#padding1{
+  border: 1px solid black;
+  padding: 10%;
+  margin: 10%;
+}
+#padding2{
+  border: 1px solid black;
+  padding: 5px 1em;
+  margin: 10%;
+}
+#padding3{
+  padding: 3em 2em;
+}
+#padding4{
+  background-color: maroon;
+  padding: 0px 15%;
+}
